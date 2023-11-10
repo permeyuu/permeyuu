@@ -30,8 +30,8 @@
   - GPA: 6.40/7
   - Expected Graduation: July 2024
 
-## Showcase Your Work
-- Interested in my work? Check out my personal webpage where I dive deep into my projects and skills: [](soon).
+## Showcase My Work
+- Interested in my work? Check out my personal webpage where I dive deep into my projects and skills: [Alyss in Wonderland](soon).
 
 ## Connect With Me
 - LinkedIn: [](soon)
