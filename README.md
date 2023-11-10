@@ -1,4 +1,4 @@
-# Hello, I'm Alyss Liu 👋
+# Hello, I'm Yuxin(Alyss) Liu 👋
 
 ## About Me
 - 🖥 I'm a passionate student developer on the lookout for internship opportunities in C# development.
